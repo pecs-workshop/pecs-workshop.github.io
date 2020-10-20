@@ -1,0 +1,37 @@
+title: "PECS"
+description: Workshop on Performance and Energy-efficiency in Concurrent Systems
+
+# Change this to the year which shall appear as "default" in the website
+current_year: 2021
+
+# The following array is used to populate previous editions.
+# If the edition is hosted by this site, a corresponding _edition_20xx
+# folder is expected to be found, and `output: true` should be set.
+# Otherwise, `site` should point to the previous webpage (if available).
+# `proceedings` should point to the digital library page of the proceedings (if availbale).
+# `venue`, `location`, and `dates` allow to customize the edition website. The current
+# markdown files rely on them throughout the text, so if you clone the content of a past
+# edition and set these variables correctly, a good part of the site is already consistent.
+collections:
+  '2021':
+    output: true
+    permalink: /:collection/:title
+    venue: "Rennes, France"
+    location: "INRIA Conference center"
+    dates: "April 19, 2021 (tentative)"
+
+
+# You are not likely expected to touch below this line
+exclude: [README.md, LICENSE]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: true
+
+sass:
+  style: compressed
