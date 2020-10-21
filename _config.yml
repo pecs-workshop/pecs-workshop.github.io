@@ -19,6 +19,7 @@ collections:
     venue: "Rennes, France"
     location: "INRIA Conference center"
     dates: "April 19, 2021 (tentative)"
+    pagelimit: "8"
 
 
 # You are not likely expected to touch below this line
