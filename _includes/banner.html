@@ -13,7 +13,7 @@ Pictures should be placed in /assets/img/venues/.
 
 <div class="center">
     <div class="picture">
-        <img alt="PADS {{ year }} - {{ edition.venue }}" src="{{ '/assets/img/venues/' | append: include.picture | relative_url }}" /><br/>
+        <img alt="{{site.title}} {{ year }} - {{ edition.venue }}" src="{{ '/assets/img/venues/' | append: include.picture | relative_url }}" /><br/>
     </div>
     <div style="text-align: center;">
         <strong>{{ edition.venue }}</strong><br/>
