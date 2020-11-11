@@ -20,6 +20,8 @@ collections:
     location: "INRIA Conference center"
     dates: "April 19, 2021 (tentative)"
     pagelimit: "8"
+    short_pagelimit: "4"
+    submission_link: "https://easychair.org/my/conference?conf=pecs2021"
 
 
 # You are not likely expected to touch below this line
