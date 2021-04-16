@@ -18,7 +18,7 @@ collections:
     permalink: /:collection/:title
     venue: "Rennes, France"
     location: "INRIA Conference center"
-    dates: "April 19, 2021 (tentative)"
+    dates: "April 20, 2021"
     pagelimit: "8"
     short_pagelimit: "4"
     submission_link: "https://easychair.org/my/conference?conf=pecs2021"
