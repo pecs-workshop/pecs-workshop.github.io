@@ -18,7 +18,7 @@ collections:
     permalink: /:collection/:title
     venue: "Virtual Event"
     location: "virtual conference"
-    dates: "April 9 or 10, 2021"
+    dates: "April 9 or 10, 2022"
     pagelimit: "8"
     short_pagelimit: "4"
     submission_link: "https://easychair.org/my/conference?conf=pecs2022"
