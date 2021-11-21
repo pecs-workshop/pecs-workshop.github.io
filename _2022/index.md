@@ -10,7 +10,7 @@ title: "Workshop on Performance and Energy-efficiency in Concurrent Systems"
 {% for coll in site.collections %}{% if coll.label == page.collection %}{% assign edition = coll %}{% endif %}{% endfor %}
 {%- assign year = page.collection -%}
 
-The {{ year }} {{site.description}} ({{site.title}}) will take place as a **{{ edition.location }}** on {{ edition.dates }} in {{ edition.venue }}. The workshop will be co-located with the [12th ACM/SPEC International Conference on Performance Engineering](https://icpe2021.spec.org/).
+The {{ year }} {{site.description}} ({{site.title}}) will take place as a **{{ edition.location }}** on {{ edition.dates }}. The workshop will be co-located with the [12th ACM/SPEC International Conference on Performance Engineering](https://icpe2021.spec.org/).
 
 Concurrent systems, based on (distributed) multi/many-core processing units, are the nowadays reference computing architecture. The (continuously-growing) level of hardware parallelism they offer has lead these platforms to play a central role at any scale, ranging from data centers, to personal (mobile) devices. Optimizing performance and/or ensuring energy efficiency when running complex software stacks on top of these systems is extremely challenging due to several aspects, like data dependencies or resource sharing (and interference) among application threads, as well as VMs. Furthermore, hardware accelerators like GPGPUs or FPGAs introduce a level of heterogeneity that can potentially offer further opportunities for combined gain in performance and energy efficiency, if correctly exploited.
 
