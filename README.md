@@ -1,3 +1,3 @@
-# PECS 2021
+# Workshop on Performance and Energy-efficiency in Concurrent Systems
 
-Website for the PECS 2021 Workshop
+This repository maintains the sources of the website published at https://pecs-workshop.github.io/
