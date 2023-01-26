@@ -2,7 +2,7 @@ title: "PECS"
 description: Workshop on Performance and Energy-efficiency in Concurrent Systems
 
 # Change this to the year which shall appear as "default" in the website
-current_year: 2022
+current_year: 2023
 
 # The following array is used to populate previous editions.
 # If the edition is hosted by this site, a corresponding _edition_20xx
@@ -13,6 +13,15 @@ current_year: 2022
 # markdown files rely on them throughout the text, so if you clone the content of a past
 # edition and set these variables correctly, a good part of the site is already consistent.
 collections:
+  '2023':
+    output: true
+    permalink: /:collection/:title
+    venue: "Limassol, Cyprus"
+    location: "conference"
+    dates: "August 28 or 29, 2023"
+    pagelimit: "12"
+    short_pagelimit: "0"
+    submission_link: "https://easychair.org/my/conference?conf=pecs2022"
   '2022':
     output: true
     permalink: /:collection/:title
