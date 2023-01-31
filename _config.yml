@@ -17,11 +17,11 @@ collections:
     output: true
     permalink: /:collection/:title
     venue: "Limassol, Cyprus"
-    location: "conference"
-    dates: "August 28 or 29, 2023"
+    location: ""
+    dates: "August 28/29, 2023"
     pagelimit: "12"
     short_pagelimit: "0"
-    submission_link: "https://easychair.org/my/conference?conf=pecs2022"
+    submission_link: "https://easychair.org/my/conference?conf=pecs2023"
   '2022':
     output: true
     permalink: /:collection/:title

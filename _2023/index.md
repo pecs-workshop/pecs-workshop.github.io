@@ -10,12 +10,20 @@ title: "Workshop on Performance and Energy-efficiency in Concurrent Systems"
 {% for coll in site.collections %}{% if coll.label == page.collection %}{% assign edition = coll %}{% endif %}{% endfor %}
 {%- assign year = page.collection -%}
 
-The {{ year }} {{site.description}} ({{site.title}}) will take place as a **{{ edition.location }}** on {{ edition.dates }}. The workshop will be co-located with the [13th ACM/SPEC International Conference on Performance Engineering](https://icpe2022.spec.org/).
+The {{ year }} {{site.description}} ({{site.title}}) will take place on {{ edition.dates }}. The workshop will be co-located with the [ 29th International European Conference on Parallel
+and Distributed Computing](https://2023.euro-par.org/).
 
-Concurrent systems, based on (distributed) multi/many-core processing units, are the nowadays reference computing architecture. The (continuously-growing) level of hardware parallelism they offer has lead these platforms to play a central role at any scale, ranging from data centers, to personal (mobile) devices. Optimizing performance and/or ensuring energy efficiency when running complex software stacks on top of these systems is extremely challenging due to several aspects, like data dependencies or resource sharing (and interference) among application threads, as well as VMs. Furthermore, hardware accelerators like GPGPUs or FPGAs introduce a level of heterogeneity that can potentially offer further opportunities for combined gain in performance and energy efficiency, if correctly exploited.
+Concurrent and distributed computer architectures, based on multi/many-core or distributed computer units, have become a standard de-facto in computer systems. Today, these architectures take a role at any scale, from high-end servers to personal and mobile devices, and they underlie various recent computing paradigms, like Cloud, Edge and Fog Computing.
 
-The goal of this workshop is to establish a venue for both academia and industry experts and practitioners, where they can discuss challenges, perspectives and opportunities given by researching on scalable, energy-efficient and secure software deployed on top of modern (heterogeneous) concurrent platforms.
+The continuously-growing level of hardware parallelism and heterogeneity has led concurrent and distributed systems to be even more complex to optimize, in particular in terms of energy efficiency and performance, which are known to be highly interrelated. Nonetheless, these aspects are of paramount importance, especially because of the IT sector’s high demand for electricity. This facet is further exacerbated by the recent energy crisis and rising energy prices.
 
-## Important Deadlines
+Several aspects of concurrent and/or distributed systems make highly challenging the improvement of both energy efficiency and performance levels, like the complexity of the underlying architectures, data dependencies, the use of shared resources, the hardware heterogeneity. On the other hand, all these aspects can offer new opportunities for identifying and designing new methods and techniques for energy and performance optimization.
+PECS aims to establish a venue for both academia and industry to discuss challenges and perspectives, and to explore opportunities, research methods, techniques and tools for energy efficiency and performance optimization in concurrent and distributed systems.
+
+
+
+
+
+## Important Dates
 
 {% include_relative _important_dates.md %}
