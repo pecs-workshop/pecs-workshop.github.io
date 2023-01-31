@@ -19,8 +19,8 @@ collections:
     venue: "Limassol, Cyprus"
     location: ""
     dates: "August 28/29, 2023"
-    maxpagelimit: "12"
-    minpagelimit: "10"    
+    max_pagelimit: "12"
+    min_pagelimit: "10"    
     short_pagelimit: "0"
     submission_link: "https://easychair.org/my/conference?conf=pecs2023"
   '2022':
