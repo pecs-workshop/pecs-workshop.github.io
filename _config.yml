@@ -17,7 +17,7 @@ collections:
     output: true
     permalink: /:collection/:title
     venue: "Limassol, Cyprus"
-    location: ""
+    location: "St. Raphael Resort"
     dates: "August 28/29, 2023"
     max_pagelimit: "12"
     min_pagelimit: "10"    
