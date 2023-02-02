@@ -43,9 +43,9 @@
 </header>
 
 <div id="banner">
-    <span>{{edition.additionalinfo}}</span>
+    <!--<span id="addinfo">{{edition.additionalinfo}}</span>-->
     {%- if page.collection -%}
-    <span id="dates">{{ edition.venue }} &bullet; {{ edition.dates }}</span>
+    <span id="dates">{{edition.additionalinfo}} &bullet; {{ edition.venue }} &bullet; {{ edition.dates }}</span>
     {%- endif -%}
     <!--<span id="logo"></span>-->
     <a class="button menubutton" id="menubutton" onclick="slide();"><img style="height:15px;" src="{{ '/assets/img/menu.svg' | relative_url }}"/></a>
