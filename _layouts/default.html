@@ -39,7 +39,7 @@
 
 <header>
     <a href="{{ '/' | append: year | relative_url }}"><h1>{{ site.title }} {{ year }}</h1></a>
-    <p>{{ page.description | default: site.description }}</p>
+    <p>{{ page.description | default: edition.description }}</p>
 </header>
 
 <div id="banner">
@@ -70,7 +70,7 @@
         <!--
         <a href="https://www.acm.org/" target="_blank"><img src="{{ '/assets/img/acm-logo.svg' | relative_url }}"/></a>
         --><p><small>
-            {{site.current_year}} {{site.description}}. All rights reserved.
+            {{site.current_year}} {{edition.description}}. All rights reserved.
             </small>
         </p>
     </div>
