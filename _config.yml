@@ -14,6 +14,7 @@ current_year: 2023
 # edition and set these variables correctly, a good part of the site is already consistent.
 collections:
   '2023':
+    description: Workshop on Performance and Energy-efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
     venue: "Limassol, Cyprus"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Workshop on Performance and Energy-efficiency in Concurrent Systems"
+title: edition.description 
 ---
 
 {% include banner.html picture="concurrent.png" %}<!-- @IGNORE PREVIOUS: link -->
