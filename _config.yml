@@ -23,7 +23,7 @@ collections:
     min_pagelimit: "10"    
     short_pagelimit: "0"
     submission_link: "https://easychair.org/my/conference?conf=pecs2023"
-    additionalinfo: "Colocated with Euro-PAR 2023"
+    additionalinfo: "Co-located with Euro-PAR 2023"
   '2022':
     output: true
     permalink: /:collection/:title
