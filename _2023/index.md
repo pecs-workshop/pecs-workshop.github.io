@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{edition.description}}
+title: Workshop on Performance and Energy-efficiency in Concurrent and Distributed Systems
 ---
 
 {% include banner.html picture="concurrent.png" %}<!-- @IGNORE PREVIOUS: link -->
