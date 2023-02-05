@@ -26,6 +26,7 @@ collections:
     submission_link: "https://easychair.org/my/conference?conf=pecs2023"
     additionalinfo: "Co-located with Euro-PAR 2023"
   '2022':
+    description: Workshop on Performance and Energy-efficiency in Concurrent Systems
     output: true
     permalink: /:collection/:title
     venue: "Virtual Event"
@@ -35,6 +36,7 @@ collections:
     short_pagelimit: "4"
     submission_link: "https://easychair.org/my/conference?conf=pecs2022"
   '2021':
+    description: Workshop on Performance and Energy-efficiency in Concurrent Systems
     output: true
     permalink: /:collection/:title
     venue: "Rennes, France"
