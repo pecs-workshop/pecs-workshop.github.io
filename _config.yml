@@ -23,7 +23,7 @@ collections:
     max_pagelimit: "12"
     min_pagelimit: "10"    
     short_pagelimit: "0"
-    submission_link: "https://easychair.org/my/conference?conf=pecs2023"
+    submission_link: "https://easychair.org/my/conference?conf=europar2023workshops"
     additionalinfo: "Co-located with Euro-PAR 2023"
   '2022':
     description: Workshop on Performance and Energy-efficiency in Concurrent Systems
