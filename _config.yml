@@ -14,7 +14,7 @@ current_year: 2023
 # edition and set these variables correctly, a good part of the site is already consistent.
 collections:
   '2023':
-    description: Workshop on Performance and Energy-efficiency in Concurrent and Distributed Systems  
+    description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
     venue: "Limassol, Cyprus"
@@ -26,7 +26,7 @@ collections:
     submission_link: "https://easychair.org/my/conference?conf=europar2023workshops"
     additionalinfo: "Co-located with Euro-PAR 2023"
   '2022':
-    description: Workshop on Performance and Energy-efficiency in Concurrent Systems
+    description: Workshop on Performance and Energy Efficiency in Concurrent Systems
     output: true
     permalink: /:collection/:title
     venue: "Virtual Event"
@@ -36,7 +36,7 @@ collections:
     short_pagelimit: "4"
     submission_link: "https://easychair.org/my/conference?conf=pecs2022"
   '2021':
-    description: Workshop on Performance and Energy-efficiency in Concurrent Systems
+    description: Workshop on Performance and Energy Efficiency in Concurrent Systems
     output: true
     permalink: /:collection/:title
     venue: "Rennes, France"
