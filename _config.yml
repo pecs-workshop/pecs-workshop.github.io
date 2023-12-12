@@ -13,6 +13,18 @@ current_year: 2023
 # markdown files rely on them throughout the text, so if you clone the content of a past
 # edition and set these variables correctly, a good part of the site is already consistent.
 collections:
+  '2024':
+    description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
+    output: true
+    permalink: /:collection/:title
+    venue: "Pisa, Italy"
+    location: "Polo Piagge, University of Pisa"
+    dates: "June 3-4, 2024"
+    max_pagelimit: "12"
+    min_pagelimit: "10"    
+    short_pagelimit: "0"
+    submission_link: "TBA"
+    additionalinfo: "Co-located with HPDC 2024"
   '2023':
     description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
