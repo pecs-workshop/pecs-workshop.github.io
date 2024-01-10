@@ -2,6 +2,6 @@ Concurrent and distributed architectures, based on multi/many-core or distribute
 
 However, the continuously-growing level of hardware parallelism and heterogeneity has led concurrent and distributed systems to be even more complex to analyze and optimize. In particular, this concerns energy efficiency and performance aspects, which are known to be highly interrelated. Nonetheless, they play an important role, also because of the global electricity demand by the IT sector. 
 
-In concurrent and distributed systems there are various various factors that impact energy efficiency and performance in a complex way, such as concurrent use of computing resources, distributed communication, the presence of (distributed) data dependencies, and the need for synchronization of concurrent threads/processes. However, these and other aspects may also offer new opportunities to be explored in the design of methods and tools to improve the energy efficiency and performance of these systems.
+In concurrent and distributed systems, there are various factors that affect energy efficiency and performance in a complex way, such as the concurrent use of computing resources, distributed communication, the presence of (distributed) data dependencies and the need for synchronisation of concurrent threads/processes. However, these and other aspects may also offer new opportunities to be explored in the design of methods and tools to improve the energy efficiency and performance of these systems.
 
 
