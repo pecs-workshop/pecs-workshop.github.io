@@ -2,8 +2,8 @@
 
 
 |:----------------------------------------------|:---:|
-| Abstract Submission (required for all papers) | TBA    |
-| Paper Submission                              | TBA	|
-| Paper Notification of Acceptance              | TBA  	|
-| Workshop Day                                  | TBA  	|
-| Camera-Ready Submission                       | TBA	|
+| Paper Submission                              | March 9, 2024|
+| Paper Notification of Acceptance              | April 7, 2024|
+| Camera-Ready Submission                       | April 16, 2024|
+| Workshop Day                                  | June 3-4, 2024|
+
