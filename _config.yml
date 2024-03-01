@@ -17,8 +17,8 @@ collections:
     description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
-    venue: "Pisa, Italy"
-    location: "Department of Computer Science ('Polo Fibonacci'), University of Pisa, Italy.
+    venue: "Largo Bruno Pontecorvo 3, Pisa, Italy"
+    location: "Department of Computer Science ('Polo Fibonacci'), University of Pisa"
     dates: "June 3-4, 2024"
     max_pagelimit: "12"
     min_pagelimit: "10"    
