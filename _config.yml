@@ -18,7 +18,7 @@ collections:
     output: true
     permalink: /:collection/:title
     venue: "Pisa, Italy"
-    location: "Polo Piagge, University of Pisa"
+    location: "Department of Computer Science ('Polo Fibonacci'), University of Pisa, Italy.
     dates: "June 3-4, 2024"
     max_pagelimit: "12"
     min_pagelimit: "10"    
