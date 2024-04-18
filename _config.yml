@@ -17,8 +17,8 @@ collections:
     description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
-    venue: "Pisa, Italy"            
-    location: "Department of Computer Science (Polo Fibonacci), University of Pisa, Largo Bruno Pontecorvo 3"
+    venue: "Department of Computer Science (Polo Fibonacci), University of Pisa, Largo Bruno Pontecorvo 3"            
+    location: "Pisa, Italy"
     dates: "June 3-4, 2024"
     max_pagelimit: "12"
     min_pagelimit: "10"    
@@ -29,8 +29,8 @@ collections:
     description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
-    venue: "Limassol, Cyprus"
-    location: "St. Raphael Resort"
+    venue: "St. Raphael Resort"
+    location: "Limassol, Cyprus"
     dates: "August 28, 2023"
     max_pagelimit: "12"
     min_pagelimit: "10"    
@@ -51,8 +51,8 @@ collections:
     description: Workshop on Performance and Energy Efficiency in Concurrent Systems
     output: true
     permalink: /:collection/:title
-    venue: "Rennes, France"
-    location: "INRIA Conference center"
+    venue: "INRIA Conference center"
+    location: "Rennes, France"
     dates: "April 20, 2021"
     pagelimit: "8"
     short_pagelimit: "4"
