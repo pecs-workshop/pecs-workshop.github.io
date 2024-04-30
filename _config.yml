@@ -19,7 +19,7 @@ collections:
     permalink: /:collection/:title
     venue: "Department of Computer Science (Polo Fibonacci), University of Pisa, Largo Bruno Pontecorvo 3"            
     location: "Pisa, Italy"
-    dates: "June 3-4, 2024"
+    dates: "June 3, 2024"
     max_pagelimit: "12"
     min_pagelimit: "10"    
     short_pagelimit: "0"
