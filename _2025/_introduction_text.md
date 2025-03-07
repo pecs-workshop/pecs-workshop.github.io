@@ -1,4 +1,4 @@
-Nowadays, concurrent and distributed systems play a role in a variety of computing applications. This is supported by the widespread adoption of computing architectures based on multi-core processors and distributed computing units, which have become a standard de-facto at any system scale, from high-end servers to personal/mobile devices.
+Nowadays, concurrent and distributed systems play a role in a variety of computing applications. This is supported by the widespread use of computing architectures based on multi-core processors and distributed computing units, which have become a standard de-facto at any system scale, from high-end servers to personal/mobile devices.
 
 However, the increasing level of hardware parallelism and heterogeneity has made concurrent and distributed systems even more complex to design, analyze and optimize. In particular, this concerns performance and energy efficiency aspects, which are known to be highly interrelated. Nonetheless, they play a key role, even because of the increasing global electricity demand by the IT sector.
 
