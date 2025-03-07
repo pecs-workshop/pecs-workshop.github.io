@@ -2,7 +2,7 @@ title: "PECS"
 description: Workshop on Performance and Energy efficiency in Concurrent and Distributed Systems
 
 # Change this to the year which shall appear as "default" in the website
-current_year: 2024
+current_year: 2025
 
 # The following array is used to populate previous editions.
 # If the edition is hosted by this site, a corresponding _edition_20xx
@@ -13,6 +13,18 @@ current_year: 2024
 # markdown files rely on them throughout the text, so if you clone the content of a past
 # edition and set these variables correctly, a good part of the site is already consistent.
 collections:
+  '2025':
+    description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
+    output: true
+    permalink: /:collection/:title
+    venue: "Department of Computer Science (Polo Fibonacci), University of Pisa, Largo Bruno Pontecorvo 3"            
+    location: "Dresden, Germany"
+    dates: "August 25-26, 2025 "
+    max_pagelimit: "12"
+    min_pagelimit: "10"    
+    short_pagelimit: "0"
+    submission_link: "TBA"
+    additionalinfo: "Co-located with Euro-Par 2025"  
   '2024':
     description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
