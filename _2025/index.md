@@ -1,6 +1,6 @@
 ---
 layout: default
-
+title: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems (PECS 2025)
 ---
 
 {% include banner.html picture="concurrent.png" %}<!-- @IGNORE PREVIOUS: link -->
