@@ -23,7 +23,7 @@ collections:
     max_pagelimit: "12"
     min_pagelimit: "10"    
     short_pagelimit: "0"
-    submission_link: "TBA"
+    submission_link: "https://easychair.org/conferences/submission_new?a=34377194"
     additionalinfo: "Co-located with Euro-Par 2025"  
   '2024':
     description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
