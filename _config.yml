@@ -19,7 +19,7 @@ collections:
     permalink: /:collection/:title
     venue: "TUD Dresden University of Technology"            
     location: "Dresden, Germany"
-    dates: "August 25-26, 2025 "
+    dates: "August 26, 2025 "
     max_pagelimit: "12"
     min_pagelimit: "10"    
     short_pagelimit: "0"
