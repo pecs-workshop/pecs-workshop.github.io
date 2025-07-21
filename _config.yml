@@ -17,7 +17,7 @@ collections:
     description: Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
-    venue: "TUD Dresden University of Technology"            
+    venue: "[TUD Dresden University of Technology](https://2025.euro-par.org/attending/venue)"             
     location: "Dresden, Germany"
     dates: "August 26, 2025 "
     max_pagelimit: "12"
