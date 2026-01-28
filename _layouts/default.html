@@ -65,6 +65,13 @@
     <section>
         <h1>{{ page.title }}</h1>
         {{ content }}
+        
+        {% if page.url == "/" %}
+          <footer style="margin-top: 50px; padding-top: 20px; border-top: 1px dashed #ddd; font-size: 0.8em;">
+            <p><strong>Privacy Policy:</strong> This website is hosted on GitHub Pages. No profiling or tracking cookies are installed. System logs may be collected for security purposes per <a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">GitHub Privacy Statement</a>.</p>
+          </footer>
+        {% endif %}
+  
     </section>
     <div style="text-align: center; margin-bottom: 10px;">
         <!--
