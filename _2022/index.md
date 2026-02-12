@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Workshop on Performance and Energy Efficiency in Concurrent Systems"
+title: "PRCS 2022 - 2nd Workshop on Performance and Energy Efficiency in Concurrent Systems"
 ---
 
 {% include banner.html picture="concurrent.png" %}<!-- @IGNORE PREVIOUS: link -->
