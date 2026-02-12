@@ -17,7 +17,7 @@ collections:
     description: 6<sup>th</sup> International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
-    venue: "[University of Pisa](https://2026.euro-par.org/attending/venue)"             
+    venue: "[University of Pisa](https://2026.euro-par.org/attending/venue){:target="_blank"}"             
     location: "Pisa, Italy"
     dates: "August 24-25, 2026 "
     max_pagelimit: "12"
