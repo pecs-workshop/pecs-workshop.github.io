@@ -17,7 +17,7 @@ collections:
     description: 6<sup>th</sup> International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
-    venue: "[University of Pisa](https://2026.euro-par.org/attending/venue){:target="_blank"}"             
+    venue: "[University of Pisa](https://2026.euro-par.org/attending/venue)"             
     location: "Pisa, Italy"
     dates: "August 24-25, 2026 "
     max_pagelimit: "12"
@@ -26,19 +26,19 @@ collections:
     submission_link: "https://easychair.org/conferences/?conf=europar2026"
     additionalinfo: "Co-located with Euro-Par 2026"  
   '2025':
-    description: 5<sup>th</sup> International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
+    description: International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
-    venue: "[TUD Dresden University of Technology](https://2025.euro-par.org/attending/venue){:target="_blank"}"             
+    venue: "[TUD Dresden University of Technology](https://2025.euro-par.org/attending/venue)"             
     location: "Dresden, Germany"
-    dates: "August 24-26, 2025 "
+    dates: "August 26, 2025"
     max_pagelimit: "12"
     min_pagelimit: "10"    
     short_pagelimit: "0"
     submission_link: "https://easychair.org/conferences/?conf=europar2025"
     additionalinfo: "Co-located with Euro-Par 2025"  
   '2024':
-    description: 4<sup>th</sup> International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
+    description: International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
     venue: "Department of Computer Science (Polo Fibonacci), University of Pisa, Largo Bruno Pontecorvo 3"            
@@ -50,7 +50,7 @@ collections:
     submission_link: "https://pecs2024.hotcrp.com/paper/new"
     additionalinfo: "Co-located with HPDC 2024"
   '2023':
-    description: 3<sup>rd</sup> International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
+    description: International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems  
     output: true
     permalink: /:collection/:title
     venue: "St. Raphael Resort"
@@ -62,7 +62,7 @@ collections:
     submission_link: "https://easychair.org/my/conference?conf=europar2023workshops"
     additionalinfo: "Co-located with Euro-PAR 2023"
   '2022':
-    description: 2<sup>nd</sup> International Workshop on Performance and Energy Efficiency in Concurrent Systems
+    description: International Workshop on Performance and Energy Efficiency in Concurrent Systems
     output: true
     permalink: /:collection/:title
     venue: "Virtual Event"
@@ -72,7 +72,7 @@ collections:
     short_pagelimit: "4"
     submission_link: "https://easychair.org/my/conference?conf=pecs2022"
   '2021':
-    description: 1<sup>st</sup> International Workshop on Performance and Energy Efficiency in Concurrent Systems
+    description: International Workshop on Performance and Energy Efficiency in Concurrent Systems
     output: true
     permalink: /:collection/:title
     venue: "INRIA Conference center"
