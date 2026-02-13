@@ -14,6 +14,6 @@ The {{edition.description}} ({{site.title}} {{ year }}) will take place on {{ ed
 
 PECS aims to establish a venue for both academia and industry to discuss challenges and perspectives, and to explore methods, techniques and tools for energy efficiency and performance optimization in concurrent and distributed systems.
 
-## Important Dates
+## PECS 2026 - Important Dates
 
 {% include_relative _important_dates.md %}
