@@ -3,14 +3,5 @@
 
 @import "main";
 
-h1-main-title {
-  @extend h1;
-  text-align: center;
-  font-size: clamp(1.2rem, 2vw, 2.5rem);
-  white-space: normal !important; 
-  overflow: visible !important; 
-  text-overflow: clip !important;  
-}
-
 
 
