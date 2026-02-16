@@ -6,3 +6,14 @@
 h1 {
   text-align: center;
 }
+
+h1 {
+  font-size: 40px; /* Dimensione per desktop */
+}
+
+/* Quando lo schermo è largo meno di 600px */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 28px;
+  }
+}
