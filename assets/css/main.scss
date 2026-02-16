@@ -2,3 +2,10 @@
 ---
 
 @import "main";
+
+h1 {
+  text-align: center;
+  white-space: normal !important; 
+  overflow: visible !important; 
+  text-overflow: clip !important;  
+}
