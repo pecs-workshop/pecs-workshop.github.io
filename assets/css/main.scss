@@ -4,6 +4,7 @@
 @import "main";
 
 h1-main-title {
+  @extend h1;
   text-align: center;
   font-size: clamp(1.2rem, 2vw, 2.5rem);
   white-space: normal !important; 
@@ -12,6 +13,4 @@ h1-main-title {
 }
 
 
-h1, h2, h3 {
-  margin-bottom: 30px !important; /* Regola i pixel a tuo piacimento */
-}
+
