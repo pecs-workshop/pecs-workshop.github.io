@@ -3,5 +3,16 @@
 
 @import "main";
 
+.h1-main-title {
+  @extend h1;
+  // Se il tema usa selettori specifici, aggiungili qui:
+  // @extend .project-name; 
+  
+  text-align: center;
+  font-size: clamp(1.2rem, 2vw, 2.5rem);
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+}
 
 
