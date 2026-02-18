@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PECS 2026 - 6<sup>th</sup> International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems
+title: PECS 2026 - The 6<sup>th</sup> International Workshop on Performance and Energy Efficiency in Concurrent and Distributed Systems
 ---
 
 {% include banner.html picture="concurrent.png" %}<!-- @IGNORE PREVIOUS: link -->
