@@ -21,7 +21,7 @@ title: "PECS Editions"
     {%- assign links = links | push: newlink -%}
 {%- endif -%}
 
-* **PECS {{ year }}: {{ site.description }}**  *{{ edition.venue }} ({{ edition.dates }})*    
+* **PECS {{ year }}: {{ edition.description }}**  *{{ edition.venue }} ({{ edition.dates }})*    
   {{ links | array_to_sentence_string: " - " }}    
 {%- endif -%}
 {% endfor %}
