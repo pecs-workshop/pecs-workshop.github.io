@@ -1,6 +1,6 @@
 ---
 layout: editions
-title: "Workshop Editions"
+title: "PECS Editions"
 ---
 
 {% assign editions = site.collections | sort: 'label' | reverse %}
